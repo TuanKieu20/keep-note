@@ -18,7 +18,4 @@ ___
         <td><img src="./Screenshot/Screenshot_1647792398.png" alt="" width="200"></td>
         <td><img src="./Screenshot/Screenshot_1647792320.png" alt="" width="200"></td>
     <tr>
-</table>
-
----
-# By Fraved 
+</table> 
