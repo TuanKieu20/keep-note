@@ -2,8 +2,8 @@
 
 # FEATURE APP
 <ul>
-    <li>Add Note<\li>
-    <li>Dark mode<\li>
+    <li>Add Note</li>
+    <li>Dark mode</li>
 </ul>
 
 ## Hive NoSql - Flutter Bloc 
