@@ -1,5 +1,11 @@
 # KEEP NOTES - FLUTTER
 
+# FEATURE APP
+<ul>
+    <li>Add Note<\li>
+    <li>Dark mode<\li>
+</ul>
+
 ## Hive NoSql - Flutter Bloc 
 
 ___
